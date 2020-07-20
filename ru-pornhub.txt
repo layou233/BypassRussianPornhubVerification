@@ -8,6 +8,9 @@
 ! in the Github (https://github.com/layou233/BypassRussianPornhubVerification/issues)
 ! Pull requests are welcome if you have a well done in fixing bugs!
 !--------
+##age-verification-wrapper
+##age-verification-container
+
 ##DIV[id="age-verification-wrapper"]
 ##DIV[id="age-verification-container"]
 
