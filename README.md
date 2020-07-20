@@ -6,3 +6,5 @@ And you don't need to do anything yourself, just have fun in watching videos XD.
 So that is why this project born.
 Just put custom rule URL in your Adblocker:
 > https://raw.githubusercontent.com/layou233/BypassRussianPornhubVerification/master/ru-pornhub.txt
+# How do it works?
+See at the [Wiki page](https://github.com/layou233/BypassRussianPornhubVerification/wiki "Wiki page")
