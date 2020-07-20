@@ -8,5 +8,5 @@
 ! in the Github (https://github.com/layou233/BypassRussianPornhubVerification/issues)
 ! Pull requests are welcome if you have a well done in fixing bugs!
 !--------
-pornhub.com###age-verification-wrapper
-pornhub.com###age-verification-container
+#age-verification-wrapper
+#age-verification-container
