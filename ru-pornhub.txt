@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Version: 20200720
+! Title: BypassRussianPornhubVerification
+! Homepage: https://github.com/layou233/BypassRussianPornhubVerification/
+! Licence: https://github.com/layou233/BypassRussianPornhubVerification/blob/master/LICENSE
+! 
+! Please report any problems at Issues
+! in the Github (https://github.com/layou233/BypassRussianPornhubVerification/issues)
+! Pull requests are welcome if you have a well done in fixing bugs!
+!--------
+pornhub.com###age-verification-wrapper
+pornhub.com###age-verification-container
